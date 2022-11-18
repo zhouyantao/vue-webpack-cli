@@ -3,7 +3,6 @@
 /dist
 /dist-zip
 package-lock.json
-
 .idea
 
 # System Files
@@ -17,7 +16,6 @@ Thumbs.db
 !.vscode/launch.json
 !.vscode/extensions.json
 .vscode
-
 
 # IDEs and editors
 /.idea
